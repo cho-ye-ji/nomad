@@ -1,0 +1,22 @@
+operation 연산
+constant 상수 === (const), 변하지 않는 것, 바뀌지 않는 것 (1등)
+variable 변수 === (var) (2등)
+
+
+
+* 규칙 - 기본적으로 const를 쓰고 필요할 때 let을 쓰되, var는 쓰지말것
+* veryLongSentence => 자바스크립트식(camel, 카멜식) , very_long_sentence =>파이썬식(snake_case),파이썬엔 변수 안 붙여줘도 됨(cosnt, ; 없어도딤)
+
+*코드를 적고 짧게 쓰면
+수정하기도 좋고, 작성 시간도 줄어든다.
+
+
+
+매입거래서 합계표 > 상세
+/PurchaseDealTableDetail
+
+
+
+
+
+
